@@ -38,7 +38,7 @@
 		"string"
 	],
 	"dependencies": {
-		"@babel/code-frame": "^7.26.2",
+		"@babel/code-frame": "^8.0.0",
 		"index-to-position": "^1.1.0",
 		"type-fest": "^4.39.1"
 	},
